@@ -1,2 +1,2 @@
-# Usefull
-Usefull thigs that you can insert your projets.
+# Useful
+Useful thigs that you can insert your projets.
